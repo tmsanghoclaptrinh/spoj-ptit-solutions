@@ -1,12 +1,14 @@
 [https://www.spoj.com/PTIT](https://www.spoj.com/PTIT/) solutions
 ========
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tmsangdev.spoj-ptit-solutions&right_color=blue&format=true)
-<a href="#"><img src="https://img.shields.io/badge/language-C-blue"></a>
-<a href="#"><img src="https://img.shields.io/github/repo-size/tmsangdev/spoj-ptit-solutions"></a>
-<a href="https://github.com/tmsangdev/spoj-ptit-solutions/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tmsangdev/spoj-ptit-solutions?label=License"></a>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsangdev%2Fspoj-ptit-solution.json&label=visitors&color=blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/language-C-blue"></a>
+  <a href="#"><img src="https://img.shields.io/github/repo-size/tmsangdev/spoj-ptit-solutions"></a>
+  <a href="https://github.com/tmsangdev/spoj-ptit-solutions/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tmsangdev/spoj-ptit-solutions?label=License"></a>
+</p>
 
-<p>
+<p align="left">
   <a href="https://github.com/tmsangdev"><img src="https://img.shields.io/badge/author-tmsangdev-41454A?logo=github&labelColor=grey"></a>
   <a href="https://facebook.com/tmsangdev"><img src="https://img.shields.io/badge/facebook-tmsangdev-41454A?logo=facebook&logoColor=white&labelColor=blue"></a>
   <a href="https://www.youtube.com/@tmsangdev"><img src="https://img.shields.io/badge/youtube-tmsangdev-41454A?logo=youtube&logoColor=white&labelColor=red"></a>
@@ -15,7 +17,6 @@
             alt="chat on Discord"></a>
   <a href="https://viblo.asia/u/tmsangdev"><img src="https://img.shields.io/badge/viblo-tmsangdev-white"></a>
 </p>
-
 
 ### [Basic Problems](https://www.spoj.com/PTIT/problems/basic/all)
 
