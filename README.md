@@ -32,7 +32,7 @@
 | 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) |  | Easy |
 | 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) |  | Easy |
 | 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) |  | Easy |
-| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) |  | Easy |
+| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems/BCGCD.c) | Easy |
 | 9835 | SUMDIV | [Tổng ước](https://www.spoj.com/PTIT/problems/SUMDIV) |  | Easy |
 | 10382 | BCBIGNUM | [Xử lý số nguyên lớn](https://www.spoj.com/PTIT/problems/BCBIGNUM) |  | Easy |
 | 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) |  | Easy |
