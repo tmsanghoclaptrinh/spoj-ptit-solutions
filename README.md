@@ -29,7 +29,7 @@
 | 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems/BCPALIN.c) | Easy |
 | 9803 | BCFACT | [Giai thừa (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACT) | [C](./basic-problems/BCFACT.c) | Easy |
 | 9806 | BCSINH | [Sinh các dãy nhị phân độ dài n (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSINH) | [C](./basic-problems/BCSINH.c) | Easy |
-| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) |  | Easy |
+| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems/BCPERMU.c) | Easy |
 | 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) |  | Easy |
 | 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) |  | Easy |
 | 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems/BCGCD.c) | Easy |
