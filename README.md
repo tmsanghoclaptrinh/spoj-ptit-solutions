@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsangdev%2Fspoj-ptit-solution.json&label=visitors&color=blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/language-C-blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/language-C%2CC++-blue"></a>
   <a href="#"><img src="https://img.shields.io/github/repo-size/tmsangdev/spoj-ptit-solutions"></a>
   <a href="https://github.com/tmsangdev/spoj-ptit-solutions/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tmsangdev/spoj-ptit-solutions?label=License"></a>
 </p>
