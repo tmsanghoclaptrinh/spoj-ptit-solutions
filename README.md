@@ -22,18 +22,18 @@
 
 | ID | Code | Name | Solution | Difficulty |
 | --- | ----- | ----- | -------- | ---------- |
-| 9764 | HELLOPOJ | [Hello PTIT OJ (Cơ bản)](https://www.spoj.com/PTIT/problems/HELLOPOJ) | [C](./basic-problems/HELLOPOJ.c) | Easy |
-| 9765 | BCVTAB | [A cộng B (Cơ bản)](https://www.spoj.com/PTIT/problems/BCVTAB) | [C](./basic-problems/BCVTAB.c) | Easy |
-| 9789 | BCPRIME | [Số nguyên tố (Bài cơ bản)](https://www.spoj.com/PTIT/problems/BCPRIME) | [C](./basic-problems/BCPRIME.c) | Easy |
-| 9800 | BCFACTOR | [Phân tích ra thừa số nguyên tố (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACTOR) | [C](./basic-problems/BCFACTOR.c) | Easy |
-| 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems/BCPALIN.c) | Easy |
-| 9803 | BCFACT | [Giai thừa (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACT) | [C](./basic-problems/BCFACT.c) | Easy |
-| 9806 | BCSINH | [Sinh các dãy nhị phân độ dài n (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSINH) | [C](./basic-problems/BCSINH.c) | Easy |
-| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems/BCPERMU.c) | Easy |
-| 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) | [C](./basic-problems/BCSAPXEP.c) | Easy |
-| 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) | [C](./basic-problems/BCSTACK.c), [CPP](./basic-problems/BCSTACK.cpp) | Easy |
-| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems/BCGCD.c) | Easy |
-| 9835 | SUMDIV | [Tổng ước](https://www.spoj.com/PTIT/problems/SUMDIV) | [C](./basic-problems/SUMDIV.c) | Easy |
+| 9764 | HELLOPOJ | [Hello PTIT OJ (Cơ bản)](https://www.spoj.com/PTIT/problems/HELLOPOJ) | [C](./basic-problems-using-c/HELLOPOJ.c), [C++](./basic-problems-using-cpp/HELLOPOJ.cpp) | Easy |
+| 9765 | BCVTAB | [A cộng B (Cơ bản)](https://www.spoj.com/PTIT/problems/BCVTAB) | [C](./basic-problems-using-c/BCVTAB.c) | Easy |
+| 9789 | BCPRIME | [Số nguyên tố (Bài cơ bản)](https://www.spoj.com/PTIT/problems/BCPRIME) | [C](./basic-problems-using-c/BCPRIME.c) | Easy |
+| 9800 | BCFACTOR | [Phân tích ra thừa số nguyên tố (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACTOR) | [C](./basic-problems-using-c/BCFACTOR.c) | Easy |
+| 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems-using-c/BCPALIN.c) | Easy |
+| 9803 | BCFACT | [Giai thừa (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACT) | [C](./basic-problems-using-c/BCFACT.c) | Easy |
+| 9806 | BCSINH | [Sinh các dãy nhị phân độ dài n (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSINH) | [C](./basic-problems-using-c/BCSINH.c) | Easy |
+| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems-using-c/BCPERMU.c) | Easy |
+| 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) | [C](./basic-problems-using-c/BCSAPXEP.c) | Easy |
+| 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) | [C](./basic-problems-using-c/BCSTACK.c), [C++](./basic-problems-using-cpp/BCSTACK.cpp) | Easy |
+| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems-using-c/BCGCD.c) | Easy |
+| 9835 | SUMDIV | [Tổng ước](https://www.spoj.com/PTIT/problems/SUMDIV) | [C](./basic-problems-using-c/SUMDIV.c) | Easy |
 | 10382 | BCBIGNUM | [Xử lý số nguyên lớn](https://www.spoj.com/PTIT/problems/BCBIGNUM) |  | Easy |
 | 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) |  | Easy |
 | 27374 | BCTOHOP | [Sinh tổ hợp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCTOHOP) |  | Easy |
