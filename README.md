@@ -23,7 +23,7 @@
 | ID | Code | Name | Solution | Difficulty |
 | --- | ----- | ----- | -------- | ---------- |
 | 9764 | HELLOPOJ | [Hello PTIT OJ (Cơ bản)](https://www.spoj.com/PTIT/problems/HELLOPOJ) | [C](./basic-problems-using-c/HELLOPOJ.c), [C++](./basic-problems-using-cpp/HELLOPOJ.cpp) | Easy |
-| 9765 | BCVTAB | [A cộng B (Cơ bản)](https://www.spoj.com/PTIT/problems/BCVTAB) | [C](./basic-problems-using-c/BCVTAB.c) | Easy |
+| 9765 | BCVTAB | [A cộng B (Cơ bản)](https://www.spoj.com/PTIT/problems/BCVTAB) | [C](./basic-problems-using-c/BCVTAB.c), [C++](./basic-problems-using-cpp/BCVTAB.cpp) | Easy |
 | 9789 | BCPRIME | [Số nguyên tố (Bài cơ bản)](https://www.spoj.com/PTIT/problems/BCPRIME) | [C](./basic-problems-using-c/BCPRIME.c) | Easy |
 | 9800 | BCFACTOR | [Phân tích ra thừa số nguyên tố (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACTOR) | [C](./basic-problems-using-c/BCFACTOR.c) | Easy |
 | 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems-using-c/BCPALIN.c) | Easy |
