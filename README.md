@@ -32,7 +32,7 @@
 | 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems-using-c/BCPERMU.c), [C++](./basic-problems-using-cpp/BCPERMU.cpp) | Easy |
 | 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) | [C](./basic-problems-using-c/BCSAPXEP.c), [C++](./basic-problems-using-cpp/BCSAPXEP.cpp) | Easy |
 | 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) | [C](./basic-problems-using-c/BCSTACK.c), [C++](./basic-problems-using-cpp/BCSTACK.cpp) | Easy |
-| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems-using-c/BCGCD.c) | Easy |
+| 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems-using-c/BCGCD.c), [C++](./basic-problems-using-cpp/BCGCD.cpp) | Easy |
 | 9835 | SUMDIV | [Tổng ước](https://www.spoj.com/PTIT/problems/SUMDIV) | [C](./basic-problems-using-c/SUMDIV.c) | Easy |
 | 10382 | BCBIGNUM | [Xử lý số nguyên lớn](https://www.spoj.com/PTIT/problems/BCBIGNUM) |  | Easy |
 | 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) |  | Easy |
