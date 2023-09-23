@@ -29,7 +29,7 @@
 | 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems-using-c/BCPALIN.c), [C++](./basic-problems-using-cpp/BCPALIN.cpp) | Easy |
 | 9803 | BCFACT | [Giai thừa (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACT) | [C](./basic-problems-using-c/BCFACT.c), [C++](./basic-problems-using-cpp/BCFACT.cpp) | Easy |
 | 9806 | BCSINH | [Sinh các dãy nhị phân độ dài n (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSINH) | [C](./basic-problems-using-c/BCSINH.c), [C++](./basic-problems-using-cpp/BCSINH.cpp) | Easy |
-| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems-using-c/BCPERMU.c) | Easy |
+| 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems-using-c/BCPERMU.c), [C++](./basic-problems-using-cpp/BCPERMU.cpp) | Easy |
 | 9824 | BCSAPXEP | [Sắp xếp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSAPXEP) | [C](./basic-problems-using-c/BCSAPXEP.c) | Easy |
 | 9825 | BCSTACK | [Cấu trúc dữ liệu ngăn xếp (stack) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSTACK) | [C](./basic-problems-using-c/BCSTACK.c), [C++](./basic-problems-using-cpp/BCSTACK.cpp) | Easy |
 | 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems-using-c/BCGCD.c) | Easy |
