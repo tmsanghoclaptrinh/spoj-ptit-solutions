@@ -26,7 +26,7 @@
 | 9765 | BCVTAB | [A cộng B (Cơ bản)](https://www.spoj.com/PTIT/problems/BCVTAB) | [C](./basic-problems-using-c/BCVTAB.c), [C++](./basic-problems-using-cpp/BCVTAB.cpp) | Easy |
 | 9789 | BCPRIME | [Số nguyên tố (Bài cơ bản)](https://www.spoj.com/PTIT/problems/BCPRIME) | [C](./basic-problems-using-c/BCPRIME.c), [C++](./basic-problems-using-cpp/BCPRIME.cpp) | Easy |
 | 9800 | BCFACTOR | [Phân tích ra thừa số nguyên tố (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACTOR) | [C](./basic-problems-using-c/BCFACTOR.c), [C++](./basic-problems-using-cpp/BCFACTOR.cpp) | Easy |
-| 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems-using-c/BCPALIN.c) | Easy |
+| 9801 | BCPALIN | [Số đối xứng (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPALIN) | [C](./basic-problems-using-c/BCPALIN.c), [C++](./basic-problems-using-cpp/BCPALIN.cpp) | Easy |
 | 9803 | BCFACT | [Giai thừa (Cơ bản)](https://www.spoj.com/PTIT/problems/BCFACT) | [C](./basic-problems-using-c/BCFACT.c) | Easy |
 | 9806 | BCSINH | [Sinh các dãy nhị phân độ dài n (Cơ bản)](https://www.spoj.com/PTIT/problems/BCSINH) | [C](./basic-problems-using-c/BCSINH.c) | Easy |
 | 9807 | BCPERMU | [Liệt kê hoán vị (Cơ bản)](https://www.spoj.com/PTIT/problems/BCPERMU) | [C](./basic-problems-using-c/BCPERMU.c) | Easy |
