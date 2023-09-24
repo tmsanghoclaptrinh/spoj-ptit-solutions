@@ -27,9 +27,9 @@ int main()
 
         if (operation == "push")
         {
-            int n;
-            cin >> n;
-            workingStack.push(n);
+            int newItem;
+            cin >> newItem;
+            workingStack.push(newItem);
         }
 
         if (operation == "pop")

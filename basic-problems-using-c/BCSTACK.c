@@ -102,7 +102,7 @@ int getTop(stack *workingStack)
 
 int getSize(stack *workingStack)
 {
-    return workingStack->top + 1;
+    return (workingStack->top + 1);
 }
 
 bool isEmpty(stack *workingStack)
