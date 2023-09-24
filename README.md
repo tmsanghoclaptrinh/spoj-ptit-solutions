@@ -35,5 +35,5 @@
 | 9827 | BCGCD | [Ước chung lớn nhất, bội chung nhỏ nhất (Cơ bản)](https://www.spoj.com/PTIT/problems/BCGCD) | [C](./basic-problems-using-c/BCGCD.c), [C++](./basic-problems-using-cpp/BCGCD.cpp) | Easy |
 | 9835 | SUMDIV | [Tổng ước](https://www.spoj.com/PTIT/problems/SUMDIV) | [C](./basic-problems-using-c/SUMDIV.c), [C++](./basic-problems-using-cpp/SUMDIV.cpp) | Easy |
 | 10382 | BCBIGNUM | [Xử lý số nguyên lớn](https://www.spoj.com/PTIT/problems/BCBIGNUM) |  | Easy |
-| 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) |  | Easy |
+| 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) | [C](./basic-problems-using-c/BCQUEUE.c), [C++](./basic-problems-using-cpp/BCQUEUE.cpp) | Easy |
 | 27374 | BCTOHOP | [Sinh tổ hợp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCTOHOP) |  | Easy |
