@@ -18,6 +18,8 @@
   <a href="https://viblo.asia/u/tmsangdev"><img src="https://img.shields.io/badge/viblo-tmsangdev-white"></a>
 </p>
 
+### Series video giải thích chi tiết trên Youtube: https://www.youtube.com/playlist?list=PLqfkD788zZGCYc8HiWRz4QalsGG7BbDl3
+
 ### [Basic Problems](https://www.spoj.com/PTIT/problems/basic/all)
 
 | ID | Code | Name | Solution | Difficulty |
@@ -37,3 +39,9 @@
 | 10382 | BCBIGNUM | [Xử lý số nguyên lớn](https://www.spoj.com/PTIT/problems/BCBIGNUM) |  | Easy |
 | 27368 | BCQUEUE | [Cấu trúc dữ liệu hàng đợi (queue) (Cơ bản)](https://www.spoj.com/PTIT/problems/BCQUEUE) | [C](./basic-problems-using-c/BCQUEUE.c), [C++](./basic-problems-using-cpp/BCQUEUE.cpp) | Easy |
 | 27374 | BCTOHOP | [Sinh tổ hợp (Cơ bản)](https://www.spoj.com/PTIT/problems/BCTOHOP) |  | Easy |
+
+### [acm_12_round_1](https://www.spoj.com/PTIT/problems/acm_12_round_1/)
+
+| ID | Code | Name | Solution | Difficulty |
+| --- | ----- | ----- | -------- | ---------- |
+| 10694 | PTIT121E | [Nguyên tố hóa học](https://www.spoj.com/PTIT/problems/PTIT121E) | [C++](./basic-problems-using-cpp/PTIT121E.cpp) | Easy |
