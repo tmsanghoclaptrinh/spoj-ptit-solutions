@@ -47,4 +47,5 @@
 | 10690 | PTIT121B | [Mã Nhị Phân Gray](https://www.spoj.com/PTIT/problems/PTIT121B) | [C++](./basic-problems-using-cpp/PTIT121B.cpp) | Easy |
 | 10692 | PTIT121C | [Tìm kiếm file](https://www.spoj.com/PTIT/problems/PTIT121C) | [C++](./basic-problems-using-cpp/PTIT121C.cpp) | Easy |
 | 10694 | PTIT121E | [Nguyên tố hóa học](https://www.spoj.com/PTIT/problems/PTIT121E) | [C++](./basic-problems-using-cpp/PTIT121E.cpp) | Easy |
+| 10696 | PTIT121G | [Quan hệ](https://www.spoj.com/PTIT/problems/PTIT121G) | [C++](./basic-problems-using-cpp/PTIT121G.cpp) | Easy |
 | 10718 | PTIT121I | [Lặp lại các kí tự](https://www.spoj.com/PTIT/problems/PTIT121I) | [C++](./basic-problems-using-cpp/PTIT121I.cpp) | Easy |
