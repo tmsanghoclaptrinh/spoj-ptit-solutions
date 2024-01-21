@@ -51,3 +51,9 @@
 | 10696 | PTIT121G | [Quan hệ](https://www.spoj.com/PTIT/problems/PTIT121G) | [C++](./basic-problems-using-cpp/PTIT121G.cpp) | Easy |
 | 10709 | PTIT121H | [Tráo bài](https://www.spoj.com/PTIT/problems/PTIT121H) | [C++](./basic-problems-using-cpp/PTIT121H.cpp) | Easy |
 | 10718 | PTIT121I | [Lặp lại các kí tự](https://www.spoj.com/PTIT/problems/PTIT121I) | [C++](./basic-problems-using-cpp/PTIT121I.cpp) | Easy |
+
+### [acm_12_round_3](https://www.spoj.com/PTIT/problems/acm_12_round_3/)
+
+| ID | Code | Name | Solution | Difficulty |
+| --- | ----- | ----- | -------- | ---------- |
+| 10903 | PTIT123F | [Người cai ngục say rượu](https://www.spoj.com/PTIT/problems/PTIT123F) | [C++](./basic-problems-using-cpp/PTIT123F.cpp) | Easy |
