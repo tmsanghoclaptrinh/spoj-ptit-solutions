@@ -14,7 +14,7 @@
   <a href="https://discord.gg/ajXr5kRKkk">
         <img src="https://img.shields.io/discord/994125923819458590?logo=discord&logoColor=white&labelColor=5865F2&color=green"
             alt="chat on Discord"></a>
-  <a href="https://viblo.asia/u/tmsangdev"><img src="https://img.shields.io/badge/viblo-tmsangdev-white"></a>
+  <a href="https://tmsanghoclaptrinh.com"><img src="https://img.shields.io/badge/blog-tmsanghoclaptrinh.com-white"></a>
   <a href="https://dev.to/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/dev.to-tmsanghoclaptrinh-white"></a>
 </p>
 
